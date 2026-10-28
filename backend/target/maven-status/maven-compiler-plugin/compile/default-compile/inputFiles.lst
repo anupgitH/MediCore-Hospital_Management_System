@@ -1,0 +1,12 @@
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/HospitalManagementApplication.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/appointment/Appointment.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/appointment/AppointmentController.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/appointment/AppointmentRepository.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/config/CorsConfig.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/dashboard/DashboardController.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/doctor/Doctor.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/doctor/DoctorController.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/doctor/DoctorRepository.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/patient/Patient.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/patient/PatientController.java
+/Users/anupsingh/Downloads/MediCore-Hospital-Management-System/backend/src/main/java/com/medicore/patient/PatientRepository.java
