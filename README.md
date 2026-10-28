@@ -1,3 +1,5 @@
+![image_alt](https://github.com/anupgitH/MediCore-Hospital_Management_System/blob/797f3eef3602a29dcc28e5832b3e6a3b4217de89/HospitalManagementSystem.png)
+
 # MediCore — Hospital Management System
 
 A full-stack starter project for hospital operations using React + Vite, Spring Boot, and MySQL.
